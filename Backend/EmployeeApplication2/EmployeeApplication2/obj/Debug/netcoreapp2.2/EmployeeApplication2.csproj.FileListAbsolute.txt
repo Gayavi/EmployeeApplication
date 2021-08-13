@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\EmployeeApplication2\EmployeeApplication2\bin\Debug\netcoreapp2.2\EmployeeApplication2.deps.json
+C:\Users\User\source\repos\EmployeeApplication2\EmployeeApplication2\bin\Debug\netcoreapp2.2\EmployeeApplication2.runtimeconfig.json
+C:\Users\User\source\repos\EmployeeApplication2\EmployeeApplication2\bin\Debug\netcoreapp2.2\EmployeeApplication2.runtimeconfig.dev.json
+C:\Users\User\source\repos\EmployeeApplication2\EmployeeApplication2\bin\Debug\netcoreapp2.2\EmployeeApplication2.dll
+C:\Users\User\source\repos\EmployeeApplication2\EmployeeApplication2\obj\Debug\netcoreapp2.2\EmployeeApplication2.csprojAssemblyReference.cache
+C:\Users\User\source\repos\EmployeeApplication2\EmployeeApplication2\obj\Debug\netcoreapp2.2\EmployeeApplication2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\EmployeeApplication2\EmployeeApplication2\obj\Debug\netcoreapp2.2\EmployeeApplication2.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\EmployeeApplication2\EmployeeApplication2\obj\Debug\netcoreapp2.2\EmployeeApplication2.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\EmployeeApplication2\EmployeeApplication2\obj\Debug\netcoreapp2.2\EmployeeApplication2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\EmployeeApplication2\EmployeeApplication2\obj\Debug\netcoreapp2.2\EmployeeApplication2.AssemblyInfo.cs
+C:\Users\User\source\repos\EmployeeApplication2\EmployeeApplication2\obj\Debug\netcoreapp2.2\EmployeeApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\EmployeeApplication2\EmployeeApplication2\bin\Debug\netcoreapp2.2\EmployeeApplication2.pdb
+C:\Users\User\source\repos\EmployeeApplication2\EmployeeApplication2\obj\Debug\netcoreapp2.2\EmployeeApplication2.dll
+C:\Users\User\source\repos\EmployeeApplication2\EmployeeApplication2\obj\Debug\netcoreapp2.2\EmployeeApplication2.pdb
